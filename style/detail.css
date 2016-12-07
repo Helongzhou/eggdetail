@@ -52,10 +52,10 @@ span{font-size:13px;color:#767676;}
 .small-pic ul{width:470px;overflow:hidden;}
 .small-pic li{float:left;margin-right:10px;width:82px;height:64px;}
 .small-pic img{width:82px;height:64px;}
-.next-list{display:block;width:40px;height:64px;margin-left:350px;position:absolute;left:130px;top:736px;
+.next-list{display:block;width:40px;height:64px;margin-left:350px;position:absolute;left:130px;top:756px;
 	background:url(../images/icon/next.png)no-repeat;background-size:40px 60px;}
 .pre-list{display:block;width:40px;height:64px;background:url(../images/icon/pre.png)no-repeat;
-	background-size:40px 60px;position:absolute;left:92px;top:736px;}
+	background-size:40px 60px;position:absolute;left:92px;top:756px;}
 .small-on{border:1px solid #ff6600;}
 
 .price-left{width:512px;background:#fff;border-right: 1px solid #DDDDDD;}
